@@ -1,0 +1,16 @@
+body {
+	background-color: #A8E6CF;
+}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-width: 5px;
+	width: 5%;
+	color: grey;
+}
+h1, h2 {
+	text-align: center;
+	color: seagreen;
+	font-weight: bold;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
